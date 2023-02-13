@@ -1,0 +1,35 @@
+
+/*This is a comment in CSS*/
+
+body{
+    color:lightpink;
+    background-color: rgb(0,0,0);
+    font-family: Georgia, serif;
+
+}
+
+h1{
+    color:lightpink;
+    text-align: center;
+    font-family:cursive;
+    font-size: 80px;
+}
+
+h2{
+    color:lightpink;
+    text-align: center;
+    font-family:cursive;
+    font-size: 20px;
+}
+
+p{
+    color:azure;
+    font-size: 20px;
+}
+
+a{
+    color:azure;
+    font-size: 40px;
+    top: 50%;
+    
+}
